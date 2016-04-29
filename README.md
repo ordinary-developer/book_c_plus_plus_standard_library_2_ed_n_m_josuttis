@@ -38,4 +38,4 @@ Contributing
 ------------
 
 This project doesn't need to be contributed,
-but just in case you can always connect with me
+but just in case you can always connect with me.
